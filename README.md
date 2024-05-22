@@ -1,3 +1,3 @@
 # GoogleCyberCert
 
-This repo house all of the projects and documents I completed via completing the Google Cybersecurity Professional Certification.
+This repository houses all of the projects and documents I completed throughout the Google Cybersecurity Professional Certification.
